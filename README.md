@@ -6,4 +6,6 @@ Requires
 2. python 3.x (run on 3.7)
 3. nltk download (specifically, stopwords and punkt)
 
+Data borrowed from repository https://github.com/manasgaur/Knowledge-aware-Assessment-of-Severity-of-Suicide-Risk-for-Early-Intervention
+
 Run using: python3 main.py
